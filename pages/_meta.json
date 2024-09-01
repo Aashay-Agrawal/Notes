@@ -1,0 +1,18 @@
+{
+  "index": {
+    "title": "Home",
+    "type": "page"
+  },
+  "blog": {
+    "title": "Blog",
+    "type": "page"
+  },
+  "notes": {
+    "title": "Notes",
+    "type": "page"
+  },
+  "work": {
+    "title": "Work",
+    "type": "page"
+  }
+}
